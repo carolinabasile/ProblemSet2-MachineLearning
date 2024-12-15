@@ -68,7 +68,7 @@ pip install -r requirements.txt
 - Ejecuta las celdas en orden para reproducir los resultados:
     - Importación de las bases.
     - Unión de las bases de personas con las de hogares.
-    - 
+      
 - Abre el archivo PS2.ipynb en Jupyter Notebook, Jupyter Lab o Google Colab.
 - Ejecuta las celdas en orden para reproducir los resultados:
     - Análisis descriptivo de las variables numéricas.
