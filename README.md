@@ -91,5 +91,4 @@ pip install -r requirements.txt
 ### Requisitos
 - Python 3.8 o superior
 - Bibliotecas principales:
-requests, BeautifulSoup, pandas, numpy
-seaborn, matplotlib, scikit-learn
+pandas, rarfile, matplotlib, numpy, seaborn, statsmodels, scikit-learn
