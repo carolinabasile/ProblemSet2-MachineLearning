@@ -1,0 +1,7 @@
+pandas
+rarfile
+matplotlib
+numpy
+seaborn
+statsmodels
+scikit-learn
